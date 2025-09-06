@@ -16,7 +16,7 @@ I'm a passionate **Software Engineer** with strong experience in:
 ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?&logo=mongodb)
-![MongoDB](https://img.shields.io/badge/-Go-47A248?&logo=golang)
+![MongoDB](https://img.shields.io/badge/-Go-FCC624?&logo=go)
 
 
 ### 📫 Reach Me At
